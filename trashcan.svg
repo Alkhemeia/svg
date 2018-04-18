@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3752"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="trashcan.svg">
+  <defs
+     id="defs3746">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect4266"
+       is_visible="true"
+       offset_points="70,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect4262"
+       is_visible="true"
+       offset_points="8,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect4258"
+       is_visible="true"
+       offset_points="4,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect4254"
+       is_visible="true"
+       offset_points="33,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect4234"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="312.32509"
+     inkscape:cy="542.97814"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3749">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="trashcan"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.98297954;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="trashcan-cover"
+         transform="matrix(1.0239798,0,0,1.0669254,-0.96811371,-2.8426792)">
+        <path
+           transform="matrix(0.96788787,-0.10077292,-0.12131844,0.57580736,15.201624,50.460017)"
+           d="m 78.84583,110.73333 -6.589566,2.15304 -5.159375,-4.63021 1.430191,-6.78325 6.589565,-2.153045 5.159375,4.630205 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="1.2549954"
+           sodipodi:arg1="0.73139666"
+           sodipodi:r2="6.0036225"
+           sodipodi:r1="6.9323864"
+           sodipodi:cy="106.10312"
+           sodipodi:cx="73.686455"
+           sodipodi:sides="6"
+           id="trashcan-cover-handle"
+           style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.33140385;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:type="star" />
+        <rect
+           ry="0"
+           id="trashcan-cover-body"
+           width="45.510777"
+           height="7.6666789"
+           x="18.386372"
+           y="120.55575"
+           style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.98297954;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(-16.621564)" />
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+         id="trashcan-body">
+        <rect
+           id="trashcan-body-back"
+           width="45.649635"
+           height="56.126598"
+           x="54.62989"
+           y="122.63335"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           ry="0" />
+        <g
+           id="trashcan-body-slots"
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.05476673">
+          <rect
+             ry="0"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05476673;paint-order:markers fill stroke"
+             y="130.86526"
+             x="75.209641"
+             height="40"
+             width="5"
+             id="trashcan-body-slot-middle" />
+          <rect
+             ry="0"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05476673;paint-order:markers fill stroke"
+             y="130.86526"
+             x="86.559647"
+             height="40"
+             width="5"
+             id="trashcan-body-slot-right" />
+          <rect
+             ry="0"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05476673;paint-order:markers fill stroke"
+             y="130.86526"
+             x="63.859634"
+             height="40"
+             width="5"
+             id="trashcan-body-slot-left" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
