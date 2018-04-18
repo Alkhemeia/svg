@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
    version="1.1"
    id="svg3752"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
@@ -87,8 +87,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="312.32509"
-     inkscape:cy="542.97814"
+     inkscape:cx="124.32509"
+     inkscape:cy="222.97814"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -114,10 +114,12 @@
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-197)">
     <g
        id="trashcan"
-       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+       transform="translate(-26.987499,107.68542)">
       <g
          style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.98297954;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="trashcan-cover"
